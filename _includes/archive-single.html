@@ -24,7 +24,9 @@
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+    {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+   <p class="mushed" datetime="{{ post.date | date: "%Y-%m-%d"  }}"><time><i>{{ post.date | date: date_format }}</i></time></p>
     {% include page__meta.html type=include.type %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 500 }}<span style="color: #3b9cba">Read more.</span></p>{% endif %}
   </article>
 </div>
