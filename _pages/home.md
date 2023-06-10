@@ -16,7 +16,7 @@ Tuesday - Thursday 10am - 6pm
 
 Friday - Saturday 10am - 5pm
 
-Sunday and Monday - closed
+Sunday & Monday - closed
 
 <br>
 
