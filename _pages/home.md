@@ -6,18 +6,17 @@ title: Laughing Dog Bicycles
 header:
     overlay_image: assets/images/main_photo.jpg
     overlay_filter: rgba(0, 0, 0, 0.4)
-
 ---
 
 <br>
 
 # Hours
 
-Monday - Thursday 10am - 6pm
+Tuesday - Thursday 10am - 6pm
 
 Friday - Saturday 10am - 5pm
 
-Sunday - closed
+Sunday and Monday - closed
 
 <br>
 
