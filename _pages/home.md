@@ -28,7 +28,7 @@ Sunday & Monday - closed
 
 # Location
 
-69 S. Pleasant Street, Amherst, MA (around the back) [Directions](https://www.google.com/maps/dir//42.3747852,-72.5202888/@42.3749162,-72.5205297,20.62z/data=!4m2!4m1!3e0?entry=ttu)
+63 Rear S. Pleasant Street, Amherst, MA (around the back) [Directions](https://www.google.com/maps/dir//42.3747852,-72.5202888/@42.3749162,-72.5205297,20.62z/data=!4m2!4m1!3e0?entry=ttu)
 
 <br>
 
