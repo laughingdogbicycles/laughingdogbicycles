@@ -3,7 +3,7 @@ title: "Thanksgiving week hours"
 excerpt_separator: "<!--more-->"
 ---
 
-We are open part of the holiday weekend! We'll be closed Thursday (and maybe Friday) but open on Saturday 
+We are open part of the holiday weekend! We'll be closed Thursday (and maybe Friday) but open on Saturday.
 
 <!--more-->
 
