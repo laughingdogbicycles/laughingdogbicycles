@@ -12,9 +12,9 @@ header:
 
 # Hours
 
-Tuesday - Thursday 10am - 6pm
-
-Friday - Saturday 10am - 5pm
+#### January Hours (12/27 through 1/31)
+)
+Tuesday - Saturday noon - 5pm
 
 Sunday & Monday - closed
 
