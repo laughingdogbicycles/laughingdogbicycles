@@ -33,9 +33,12 @@ There is construction across the alley and, though the alley will periodically b
 
 The entry to the southernmost alley is just south of 79 S. Pleasant Street, a large white building with a large cupola. The entrance is 3m south of a covered bus stop. [This link will open a directions to the entrace](https://www.google.com/maps/dir//42.3743889,-72.5199763/@42.3744161,-72.5201386,149m/data=!3m1!1e3!4m2!4m1!3e0?entry=ttu) and you can see a [streetview of the entrance here](https://www.google.com/maps/@42.3743714,-72.5197956,3a,75y,276.01h,91.61t/data=!3m6!1e1!3m4!1sjVKDIzK8fatVIjrIog4Lpg!2e0!7i16384!8i8192?coh=205409&entry=ttu).
 
-<div id="observablehq-viewof-map-eb52eb73"></div>
-
+<div id="observablehq-viewof-input-3eb1bb12"></div>
+<div id="observablehq-viewof-map-3eb1bb12"></div>
 <br>
+
+![a photo of the alternate entrance]({{ site.url }}{{ site.baseurl }}assets/images/temporary-entrance.jpg)
+
 
 # Location
 
@@ -62,12 +65,15 @@ The entry to the southernmost alley is just south of 79 S. Pleasant Street, a la
 {% include paginator.html %}
 
 
-<head><script type="module">
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+<script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-import define from "https://api.observablehq.com/@cyrusobrien/laughing-dog-map.js?v=4";
+import define from "https://api.observablehq.com/@cyrusobrien/laughing-dog-bicycles-map@521.js?v=4";
 new Runtime().module(define, name => {
-  if (name === "viewof map") return new Inspector(document.querySelector("#observablehq-viewof-map-eb52eb73"));
+  if (name === "viewof input") return new Inspector(document.querySelector("#observablehq-viewof-input-3eb1bb12"));
+  if (name === "viewof map") return new Inspector(document.querySelector("#observablehq-viewof-map-3eb1bb12"));
+  return ["view"].includes(name);
 });
 </script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
-</head>
