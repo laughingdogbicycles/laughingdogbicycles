@@ -13,7 +13,7 @@ header:
 
 We curate a small but thoughtful collection of great bikes. Many of these bikes are on the floor, so swing by for a test ride or call us at [(413) 253-7722](tel:+14132537722).
 
-No matter what kind of riding you do, we can help get you set up.
+No matter what kind of riding you do, we can help you get your new ride.
 
 * Road
 * Gravel
