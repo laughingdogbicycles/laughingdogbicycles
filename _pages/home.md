@@ -16,9 +16,9 @@ Tuesday - Thursday: 10am - 6pm
 
 Friday & Saturday: 10am - 5pm
 
-
 Sunday & Monday: closed
 
+*Read our announcements for holiday hours*
 <br>
 
 # Contact
