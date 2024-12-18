@@ -18,7 +18,19 @@ Friday & Saturday: 10am - 5pm
 
 Sunday & Monday: closed
 
-*Read our announcements for holiday hours*
+*Note special January hours below*
+
+
+# Winter hours and time off
+
+We will be CLOSED December 25th to 30th. We’ll be back in the shop New Year’s Eve, 12/31/2024. 
+
+For the month of January we’ll be open slightly limited hours: Tuesday through Saturday, noon to 5pm. Send us an email at info@laughingdogbicycles.com if you need us outside of those times and we’ll do our best to accommodate.
+
+In addition, we’ll be taking a little break in the middle of January. The shop will be CLOSED from January 15th to 22nd, reopening 1/23/25.
+
+Happy new year, and remember, winter is a great time to get your bike overhauled for spring riding or bring us that dusty project you’ve been putting off!
+
 <br>
 
 # Contact
@@ -27,27 +39,6 @@ Sunday & Monday: closed
 # Location
 
 63 Rear S. Pleasant Street, Amherst, MA (around the back) [Directions are here](https://www.google.com/maps/dir//42.3747852,-72.5202888/@42.3749162,-72.5205297,20.62z/data=!4m2!4m1!3e0?entry=ttu). Please note that the alley may sometimes be closed. Reference the map and links above for instructions on how to access Laughing Dog Bicycles when the northermost alley is closed.
-
-
-<br>
-
-# Recent announcements
-
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts limit: 3%}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
-
-{% include paginator.html %}
-
 
 
 <br>
