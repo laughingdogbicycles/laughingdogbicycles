@@ -10,5 +10,3 @@ main:
     url: /rentals/
   - title: "History"
     url: /history/
-  - title: "Announcements"
-    url: /announcements/
