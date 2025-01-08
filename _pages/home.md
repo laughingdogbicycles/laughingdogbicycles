@@ -34,7 +34,9 @@ Happy new year, and remember, winter is a great time to get your bike overhauled
 # Contact
 
 [(413) 253-7722](tel:+14132537722)
+
 [info@laughingdogbicycles.com](mailto:info@laughingdogbicycles.com)
+
 # Location
 
 63 Rear S. Pleasant Street, Amherst, MA (around the back) [Directions are here](https://www.google.com/maps/dir//42.3747852,-72.5202888/@42.3749162,-72.5205297,20.62z/data=!4m2!4m1!3e0?entry=ttu). Please note that the alley may sometimes be closed. Reference the map and links above for instructions on how to access Laughing Dog Bicycles when the northermost alley is closed.
